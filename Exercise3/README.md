@@ -3,7 +3,7 @@ In this exercise, the goal is to modify the code from Exercise 1 to implement a 
 
 Steps performed:
 1. Created `MinHeapInterface.java` and `MinHeap.java` by modifying the method names and the content of the `add` and `reheap` methods from `MaxHeapInterface.java` and `MaxHeap.java`.
-2. Adjusted the comparison operators in `add` and `reheap` methods to maintain the min heap property (parent node <= children nodes).
+2. Adjusted the comparison operators in add and reheap methods to maintain the min heap property (parent node <= children nodes).
 3. Modified `Test.java` as instructed to test the Min Heap operations.
 
 Output:
@@ -23,4 +23,4 @@ Removing 21
 Notes:
 - The exercise demonstrates how to transform a Max Heap implementation into a Min Heap.  
 - The focus is on understanding how changing comparison operators affects heap behavior.
-- All files are placed under the `Exercise3` folder.
+- All files are placed under the Exercise3 folder.
