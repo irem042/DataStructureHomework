@@ -14,7 +14,7 @@ and ran the program to observe how elements are inserted and removed while maint
 Below is the output of the program when running `Test.java`:
 
 
-The heap is not empty; it contains 6 entries.
+```The heap is not empty; it contains 6 entries.
 The largest entry is 21
 
 
